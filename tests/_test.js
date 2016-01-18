@@ -185,9 +185,7 @@
 
                 var theme  = localStorage["uikit.theme"] || 'default',
                     themes = {
-                        "default"      : {"name": "Default", "url":"themes/default"},
-                        "almost-flat"  : {"name": "Almost Flat", "url":"themes/default"},
-                        "gradient"     : {"name": "Gradient", "url":"themes/default"}
+                        "flatly-dark"      : {"name": "Flatly Dark", "url":"custom/flatly-dark"}
                     };
 
                 if (type==="success") {
