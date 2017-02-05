@@ -13,4 +13,6 @@ npm install
 gulp -t flatly-dark
 ```
 
+## Preview
 
+![Looks like this](https://github.com/calben/flatly-dark-uikit/blob/master/docs/flatly-dark-preview.png)
